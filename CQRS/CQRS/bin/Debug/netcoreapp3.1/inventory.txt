@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InventoryItemSeed>0</InventoryItemSeed>
+  <items>
+    <InventoryItem>
+      <id>1</id>
+      <Name>iPhone</Name>
+      <Category>Mobile Phone</Category>
+    </InventoryItem>
+  </items>
+</Inventory>

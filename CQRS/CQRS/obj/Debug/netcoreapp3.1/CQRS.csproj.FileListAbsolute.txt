@@ -1,0 +1,11 @@
+/Users/admin/Projects/CQRS/CQRS/obj/Debug/netcoreapp3.1/CQRS.AssemblyInfoInputs.cache
+/Users/admin/Projects/CQRS/CQRS/obj/Debug/netcoreapp3.1/CQRS.AssemblyInfo.cs
+/Users/admin/Projects/CQRS/CQRS/obj/Debug/netcoreapp3.1/CQRS.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/CQRS/CQRS/bin/Debug/netcoreapp3.1/CQRS.deps.json
+/Users/admin/Projects/CQRS/CQRS/bin/Debug/netcoreapp3.1/CQRS.runtimeconfig.json
+/Users/admin/Projects/CQRS/CQRS/bin/Debug/netcoreapp3.1/CQRS.runtimeconfig.dev.json
+/Users/admin/Projects/CQRS/CQRS/bin/Debug/netcoreapp3.1/CQRS.dll
+/Users/admin/Projects/CQRS/CQRS/bin/Debug/netcoreapp3.1/CQRS.pdb
+/Users/admin/Projects/CQRS/CQRS/obj/Debug/netcoreapp3.1/CQRS.dll
+/Users/admin/Projects/CQRS/CQRS/obj/Debug/netcoreapp3.1/CQRS.pdb
+/Users/admin/Projects/CQRS/CQRS/obj/Debug/netcoreapp3.1/CQRS.genruntimeconfig.cache
